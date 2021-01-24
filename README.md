@@ -1,8 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traumcode&label=Profile%20views&color=0e75b6&style=flat" alt="traumcode" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=traumcode&label=Profile%20views&color=0e75b6&style=flat" alt="traumcode" /> </p>
 
 <h1>Hi 👋, I'm Silviu Bocsa aka traumcode</h1>
 <h3>Currently student at Codecool Academy!</h3>
-
 
 
 - 🔭 I’m currently working on **my portfolio website**
