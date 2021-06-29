@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **python, html5, css3, javascript, postgresql**
+- 🌱 I’m currently learning **python, html5, css3, javascript, postgresql, java**
 
 - 📫 How to reach me **silviubocsa@gmail.com**
 
