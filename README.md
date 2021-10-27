@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=traumcode&label=Profile%20views&color=0e75b6&style=flat" alt="traumcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=traumcode&label=Profile%20views&color=0e75b6&style=flat" alt="traumcode" /> </p>
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
