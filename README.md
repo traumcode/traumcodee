@@ -12,11 +12,10 @@
 
 - 🌱 Technologies I'm currently learning **Java, html5, css3, javascript, postgresql, react.js, Spring Boot, Spring Security**
 
-<a href="https://www.linkedin.com/in/florentina-matei-85381417a/" rel="nofollow"><img src="https://camo.githubusercontent.com/60cf8eafaa6679c9de6cfaf5d7fd8716b68662a6a8eb277058aa75773f41db01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f666c6f72656e74696e612d6d617465692d3835333831343137612f" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/florentina-matei-85381417a/" style="max-width: 100%;"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/exacustodian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="exacustodian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/florentina-matei-85381417a/" rel="nofollow"><img src="https://camo.githubusercontent.com/60cf8eafaa6679c9de6cfaf5d7fd8716b68662a6a8eb277058aa75773f41db01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f666c6f72656e74696e612d6d617465692d3835333831343137612f" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/silviu-bocsa/" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
