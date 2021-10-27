@@ -5,6 +5,7 @@
 <hr>
 
 <h1>👋 I'm Silviu Bocsa aka traumcode</h1>
+<p>A budding full stack web developer. The passion for programming arose from the curiosity to find out what is beyond everything we see and perceive and the desire to bring ideas to life. I like to be very attentive to small details, I value simple content structure, clean design patterns and thoughtful interactions.</p>
 <h3>Currently student at Codecool Academy!</h3>
 
 
